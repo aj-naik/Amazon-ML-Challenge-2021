@@ -23,6 +23,7 @@ Classical models we tried:
 - KNN
 - Random Forest
 - SVM
+- Naive Bayes
 
 Out of these KNN gave the best output
 
