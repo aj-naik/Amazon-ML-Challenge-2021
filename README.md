@@ -10,6 +10,9 @@ different nodes. This is our solution to Amazon ML
 Challenge 2021 which fetched us a rank 30 briefly on the
 first submission itself.
 
+# Dataset:-
+Dataset was provided by Amazon and was a csv file containing more than 3 million rows of raw data
+
 # Data Preparation:-
 - Cleaning the data by removing all links, patterns, emojis etc.
 - Creating new features using 'Title', 'Bullet Points'.
